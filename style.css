@@ -15,6 +15,32 @@ html {
   box-sizing: border-box;
 }
 
+
+/*   ----- Navbar ----  */
+.navbar{
+  color: blue;
+}
+
+/*   ----- Painting Info ----  */
+
+#e1{
+  color: brown;
+  font-size: 16px;
+  font-weight: bold;
+}
+.carousel-inner{
+  color: brown;
+}
+.card-body{
+  color: brown;
+}
+.redd{
+  color: red;
+}
+.row{
+  color: brown;
+}
+
 /* Responsive typography */
 html {
     font-size: 14px;
